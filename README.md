@@ -1,2 +1,1 @@
-# prntScrscraper
-Da da
+root@kali:~/prntScrscraper#
